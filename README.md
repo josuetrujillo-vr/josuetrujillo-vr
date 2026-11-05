@@ -162,6 +162,10 @@ Interactive VR shooter developed with **A-Frame WebVR**, including playable area
 
 ## 📊 GitHub Stats
 
-![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuetrujillo-vr&show_icons=true&theme=tokyonight)
+![Josue's GitHub stats](https://github-stats-extended.vercel.app/api?username=josuetrujillo-vr&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josuetrujillo-vr&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=josuetrujillo-vr&layout=compact&theme=tokyonight)]
+
+## 📈 My activity in 2026
+
+![Commits in 2026](https://github-stats-extended.vercel.app/api?username=josuetrujillo-vr&commits_year=2026&hide=stars,prs,issues,contribs&hide_rank=true&show_icons=true&theme=tokyonight&custom_title=Commits%20in%202026)
