@@ -1,171 +1,111 @@
-# 👋 Hi, I'm Josue Trujillo Zenon
+<div align="center">
 
-💻 **Software Developer | Odoo Administrator | Technical Support**  
+# Hi, I'm Josue Trujillo Zenon 👋
+
+**Software Developer · Odoo Administrator · Problem Solver**
+
 📍 Aguascalientes, México  
-📧 **st3144@utr.edu.mx**  
-🔗 [GitHub](https://github.com/josuetrujillo-vr)
+Building better workflows, one solution at a time.
+
+[![GitHub](https://img.shields.io/badge/GitHub-josuetrujillo--vr-181717?style=for-the-badge&logo=github)](https://github.com/josuetrujillo-vr)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-714B67?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st3144@utr.edu.mx)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About me
 
-I am a Software Development graduate with experience in **ERP administration, Odoo customization, front-end development, database management, and technical support**.
+I'm a software development graduate interested in **ERP systems, web development, and process automation**. I enjoy solving technical problems and creating tools that make everyday work easier for teams.
 
-Currently, I work at **Electronic Cats**, where I administer and customize **Odoo 18 Community**, support business workflows, manage ERP configurations, and contribute to process automation for accounting, inventory, PLM, and engineering traceability.
+At **Electronic Cats**, I administer and customize **Odoo 18 Community**, supporting workflows across accounting, inventory, purchases, PLM, and engineering traceability.
 
-I enjoy solving technical problems, improving internal systems, and building tools that help teams work more efficiently.
+- 🧩 Working with Odoo, Python, PostgreSQL, and Docker.
+- ⚙️ Exploring integrations, business automation, and better data workflows.
+- 🌱 Growing as an Odoo developer and full-stack developer.
+- 🌎 Spanish: native · English: B2.
 
----
+## 🛠️ Tech stack
 
-## 🧠 Tech Stack
+**ERP & business systems**  
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP%20Systems-34495E?style=flat-square)
+![PLM](https://img.shields.io/badge/PLM-34495E?style=flat-square)
+![BOM](https://img.shields.io/badge/BOM%20Management-34495E?style=flat-square)
+![CFDI](https://img.shields.io/badge/CFDI%204.0-117A65?style=flat-square)
 
-### 💻 Languages & Frameworks
+**Languages & frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-
----
-
-### 🧩 ERP & Business Systems
-
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![ERP](https://img.shields.io/badge/ERP_Systems-34495E?style=for-the-badge)
-![PLM](https://img.shields.io/badge/PLM-2C3E50?style=for-the-badge)
-![BOM Management](https://img.shields.io/badge/BOM_Management-1F618D?style=for-the-badge)
-![CFDI 4.0](https://img.shields.io/badge/CFDI_4.0-117A65?style=for-the-badge)
-
----
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🛠️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=for-the-badge)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
----
-
-### ⚙️ Methodologies
-
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile_Methodologies-009688?style=for-the-badge)
-![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-455A64?style=for-the-badge)
-![Process Improvement](https://img.shields.io/badge/Process_Improvement-5D6D7E?style=for-the-badge)
-
----
+**Databases & tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=flat-square)
 
 ## 💼 Experience
 
-### 🐱 Odoo Administrator & Developer  
-**Electronic Cats**  
-📅 2026 - Present
+**🐱 Odoo Administrator & Developer · Electronic Cats**  
+*2026 – Present*  
+Odoo administration and customization, Mexican localization, data imports, troubleshooting, and KiCad–Odoo PLM integration.
 
-- Administer and customize **Odoo 18 Community** for internal business operations.
-- Configure ERP workflows related to accounting, invoicing, inventory, purchases, and product management.
-- Support Odoo modules related to **CFDI 4.0**, bank reconciliation, taxes, and Mexican localization.
-- Work on the integration between **KiCad and Odoo PLM** for BOM management and engineering change traceability.
-- Troubleshoot Odoo errors, PostgreSQL database issues, module behavior, and Docker-based deployments.
-- Create and adjust data imports for accounting records, bank statements, products, taxes, and chart of accounts.
+**🎓 Front-End Developer · Universidad Tecnológica El Retoño**  
+*2025 – 2026*  
+Built responsive interfaces with React, Astro, Tailwind CSS, and JavaScript in an Agile team.
 
----
+**⚖️ Software Developer · DIF Estatal de Aguascalientes**  
+*2024*  
+Developed a legal case management system with PHP, JavaScript, and SQL Server, including user management and PDF reports.
 
-### 🎓 Front-End Developer  
-**Universidad Tecnológica El Retoño**  
-📅 2025 - 2026
+**🎧 Technical Support & Customer Service · Teleperformance**  
+*2021 – 2025*  
+Provided technical support, resolved customer issues, and trained new agents.
 
-- Built responsive UI components using **React, Astro, Tailwind CSS, and JavaScript**.
-- Worked under SCRUM methodology, including sprints, backlog refinement, and daily stand-ups.
-- Collaborated with designers, backend developers, and stakeholders.
-- Improved UI consistency, component structure, and front-end performance.
+## 🚀 Projects
 
----
+| Project | What it's about | Technologies |
+| --- | --- | --- |
+| 🐱 **Odoo PLM – KiCad Integration** | Connecting engineering and ERP workflows for BOM management and traceability. | Odoo · KiCad · PLM |
+| ⚖️ **Digital Legal Management System** | Organizing legal cases, documents, users, and PDF reports. | PHP · JavaScript · SQL Server |
+| 🕶️ **VR Shooter — Oculus Quest 3** | An interactive experience with targets, collisions, and life-point mechanics. | A-Frame · WebVR |
 
-### ⚖️ Software Developer  
-**Digital Legal Management System — DIF Estatal de Aguascalientes**  
-📅 2024
+## 📊 GitHub activity
 
-- Designed and implemented a digital legal case management system using **PHP, JavaScript, HTML, CSS, and SQL Server**.
-- Developed modules for case registration, data consultation, user management, and PDF report generation.
-- Centralized legal case information and improved internal process tracking.
-- Reduced file search time, duplication errors, and manual document handling.
-
----
-
-### 🎧 Technical Support & Customer Service  
-**Teleperformance**  
-📅 2021 - 2025
-
-- Provided technical support and troubleshooting for customer repair cases.
-- Resolved customer inquiries while meeting quality and performance metrics.
-- Supported billing issue analysis and internal process improvement.
-- Trained new agents on procedures, systems, and customer service best practices.
-
----
-
-## 📌 Featured Projects
-
-### 🔗 Odoo PLM – KiCad Integration
-
-Integration project focused on connecting **KiCad** with **Odoo PLM** to improve BOM management, engineering traceability, and product data workflows.
-
-### ⚖️ Digital Legal Management System
-
-Internal web system developed for legal case management, document organization, user administration, and automated PDF reporting.
-
-### 🕶️ Virtual Reality Shooter — Oculus Quest 3
-
-Interactive VR shooter developed with **A-Frame WebVR**, including playable areas, targets, collision behavior, and life-point mechanics.
-
----
-
-## 🎯 Current Goals
-
-- Deepen my experience as an **Odoo Developer and ERP Administrator**.
-- Improve my skills in **Python, PostgreSQL, Docker, and Odoo module development**.
-- Build scalable business solutions and internal automation tools.
-- Continue growing as a **full-stack developer** with strong ERP and process automation knowledge.
-
----
-
-## 🌎 Languages
-
-- Spanish — Native  
-- English — B2
-
----
-
-## 📫 Contact
-
-📧 **st3144@utr.edu.mx**  
-💼 Open to opportunities related to **Odoo, ERP systems, web development, technical support, and software development**.
-
----
-
-## 📊 GitHub Stats
+<div align="center">
 
 ![Josue's GitHub stats](https://github-stats-extended.vercel.app/api?username=josuetrujillo-vr&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=josuetrujillo-vr&layout=compact&theme=tokyonight)]
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=josuetrujillo-vr&layout=compact&theme=tokyonight)
 
-## 📈 My activity in 2026
+### 🐍 My contribution snake
 
-![Commits in 2026](https://github-stats-extended.vercel.app/api?username=josuetrujillo-vr&commits_year=2026&hide=stars,prs,issues,contribs&hide_rank=true&show_icons=true&theme=tokyonight&custom_title=Commits%20in%202026)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josuetrujillo-vr/josuetrujillo-vr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josuetrujillo-vr/josuetrujillo-vr/output/github-snake.svg" />
+  <img alt="Snake animation of Josue's GitHub contributions" src="https://raw.githubusercontent.com/josuetrujillo-vr/josuetrujillo-vr/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+💬 Interested in **Odoo, ERP systems, web development, or automation**?  
+[Let's connect](mailto:st3144@utr.edu.mx)!
+
+</div>
