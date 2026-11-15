@@ -12,6 +12,12 @@ Building better workflows, one solution at a time.
 
 </div>
 
+<div align="center">
+
+<img src="https://count.getloli.com/@josuetrujillo-vr?name=josuetrujillo-vr&theme=original-new&num=123456789&padding=10&scale=0.6&pixelated=1&darkmode=auto" alt="0123456789" />
+
+</div>
+
 ---
 
 ## 👨‍💻 About me
